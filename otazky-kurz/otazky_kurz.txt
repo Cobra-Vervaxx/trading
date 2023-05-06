@@ -10,5 +10,15 @@ treba 4 pullbacky, potom je vsechny spojim a to je spravna trendova cara?
 7) Fundovany ucet
 8) Kdyz je konec trendu a zacina novy trend mam kreslit trendovou caru obou trendu, abych zjistil kdy doslo k prorazeni trendove cary prvniho trendu?
 a popripade jak tu caru kreslit protoze kdyz je trend u konce,nevim jak spojit vsehcny pullbacky, aby ta trendovka byla platna?
+9)Zajímá nás vždycky jen aktuální období(aktualní trend v grafu? Jelikož chvíli je up trend poté down trend ,ale jak poznat že je to nový trend a ne třeba jen pull back?
+10) Jak casto koukat na fundament, v kurzu jednou tydne aspon, ale tak casto si myslim ze se ani nejaky zajimavy fundament nevyhlasuje?
+11) Muzu brat v potaz i jine ekonomicke indexy, nez ktere pisete v rade pro fundament, napriklad si zjistit jestli jsou bull/bear a podle toho se zaridit?
+12)funguji podobne principy i na jine obchodni instrumenty, napriklad na trading index funds ETFs? jelikoz jsem zkousel ze zacatku obchodovat NSDQ 100 a technicka analyza 
+mi dopomohla dosahnout peknych vysledku
+13)Je dobre kreslit S/R jako zonu rectanglem, nebo proste carou? 
+14) Lze poznat pull back tak, že podle toho na jakem timeframu jsem, tam pull back dojde na 1 ze 4 hodnot fibu?
+15) Kdyz je treba down trend a pak se zmeni na uptrend a udela nejake maximum a dále pokračuje zase downtrend je to považávano za pullback, tudíž to spojím s trednovou čárou, nebo předchozí downtrend vubec neresim a beru dále down trend zvlášť?
+
+
 
 
