@@ -29,6 +29,7 @@ mi dopomohla dosahnout peknych vysledku
 24)Na jakem timeframu vstupujete do obchodu?
 25) je pravda žě se ne vzdy pullbacky(HIGHS and LOWS) v trendu musí dotknout trendové čáry?
 26) Nastavujete si allerty na urcitou price/ tam kde ocekavate vstup?
+27) Kdyz je price action, ktery se sklada z vice mensich price actionu,muze se to cele brat jako impulz tudiz pullback je cely move az na trendovou caru?+ jestli tedy bych meril fiba od zacatku impulzu az na vrchol(viz screen)
 
 
 
