@@ -29,7 +29,37 @@ mi dopomohla dosahnout peknych vysledku
 24)Na jakem timeframu vstupujete do obchodu?
 25) je pravda žě se ne vzdy pullbacky(HIGHS and LOWS) v trendu musí dotknout trendové čáry?
 26) Nastavujete si allerty na urcitou price/ tam kde ocekavate vstup?
-27) Kdyz je price action, ktery se sklada z vice mensich price actionu,muze se to cele brat jako impulz tudiz pullback je cely move az na trendovou caru?+ jestli tedy bych meril fiba od zacatku impulzu az na vrchol(viz screen)
+27) Kdyz je price action, ktery se sklada z vice mensich price actionu,muze se to cele brat jako impulz tudiz pullback je cely move az na trendovou caru?+ jestli tedy bych meril fiba od zacatku impulzu az na vrchol(viz screen "trendova cara")
+28) Co je psychologické číslo?
+29) Je pravda že forexový trh není moc regulovaný?
+30) V kurzu pisete ze ekonomický kalendar koukate kazdy den, opravdu je dulezity fundament vyhlasovan tak casto, nebo to neni nutne?
+31) Jak premoci to ze i kdyz mam R:R 1:2, tak proste cekat na profit ktery je 2 procenta, je nekdy docela hodne.
+32) Jak postupovat při fundamentu, když zprávy které jsou oznámeny se v grafu dávno promítnou před zveřejněním článků/oznámení
+33) Priklad fundamentu: Byla korunovace britského krále pozitivní pro libru?
+34) Jak vybrat jaký fundament má vyšší váhu? V kurzu je priklad s GBP/USD libra slábne dolar sílé. dále je tam ale že se podíváme na ekonom. kalendar a zjistime jestli
+se nebude vyhlasovat dalsi fundament, to znamená že nějaký fundament má vyšší váhu?
+35) Kdy je nejlepsi obchodovat? Napriklad otevreni trhu amerických-NSDQ přinese velkou volatilitu, je dobré v této hodině (15:30) obchodovat?
+36) Je pravda že dlouhý wick=silná reakce na zonu-tím pádem muzeme ocekavat vyznamne price actions?
+37) Kdy je dobré delat kompletni analyzu?, vetsinou muzu vzit ukazatele z minuleho dne a pouzivat? nebo musim kazdy den delat kompetni analyzu? Popripade jak casto ji delat?
+38) Jak poznat kde zacina trend?
+39) Pouzivali jste na practice napriklad tradingview moznost vraceni casu?
+40) Jak poznat fake breakout ze zony Supp/Ress
+41) Nejaka specialni rada na to jak spravne poznat breakout z SR zony, nebo to proste clovek musi nakoukat na X grafech?
+42) V kurzu je receno ze kdyz nastane breakout svicka musi zavrit na zonou pod momentem, je to vzdy pravda?
+43) Kdyz je breakout z SR zony, je lepsi pockat na pullback zpet na tu zonu ktera nam ted slouzi jako mantinel z druhe strany?, Protoze nekdy se mi stalo ze jsem obchod bral rovnou a prisel jsem o docela dobrou pozici, protoze jsem to koupil moc brzo. Viz.scren(SR_pullback)
+44) SR kreslim jako rectangle, jak velký ho mám kreslit, respektive jaký pip interval mám brát v potaz jako zonu SR?
+45) Pouzivate i jine patterny nez ty co jsou v tahaku na patterny, jako napriklad engulfing candle atd. ?
+46) Kdo byly vaši mentori a z ceho jste ze ucili trading vy?
+47) Kdyz je impuls a v nem je spousta mensich pullbacku(neobajsnena vec) kam natahuji fibo?
+48) Kdyz je dlouhodoby downtrend napriklad na tydennim grafu, odkud natahuji trendovku?
+49) Kdyz cena jde dolu nebo nahoru a sklada se to z kombinace uptrendu a downtrendu, jake pak budou trendove cary a povazuji se trendy, ktere jdou v opacnem smeru jako pullbacky?
+50) Souvisi s otazkou jestli i nizsi timeframy ovlivuji ty vetsi, napriklad kdyz dojde ke zlomu trendu na nizsim, dojde k tomu i na vyssim?
+51) Tradujete trend reversals?
+52) Mohu vzdy zakreslit posledni Low/High jako S/R?
+53) Je lepsi pockat na jisty zacatek noveho impulsu za cenu horsi entry price, nez riskovat ze to muze byt pruraz+ jak poznat ze se muze jednat o pruraz?
+54) Je pravda ze kdyz je nejaky silny trend a narazi na mantinel, jednoduse ho prorazi, kdyz je ten trend dlouhodoby a silny?
+55) Co nastane tehdy kdyz pro obě měny je fundament bullish nebo bearsih? 
+
 
 
 
