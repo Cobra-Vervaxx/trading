@@ -21,7 +21,7 @@ mi dopomohla dosahnout peknych vysledku
 16) Kdy je podle vás nejlepší čas obchodovat, samozřejmně je to asi v tu dobu co obchoduji ostatni obchodnici na stejne burze, ale jaky je tak nejlepsi cas, aby trh nebyl moc volatilni, ale aby nestal na miste?
 17) Kolik lotů nejvíce obchodujete?
 18) Kolik dostanu kapital, kdyz si zazadam o fundovany ucet?
-19) Jak funguji EMY (není moc dobre vysvetleno v kurzu), je to tak ze kdyz je cena nizsi jak prumer a shoduje se s dalsimi konfluencemi hledam prilezitosti na sell?
+19) Jak funguji EMY (není moc dobre vysvetleno v kurzu), je to tak ze kdyz je cena nizsi jak prumer a shoduje se s dalsimi konfluencemi hledam prilezitosti na sell, jak se ridit těmi ruznymi prumery, ktery ma vetsi vahu atd.
 20) Kdyz budu mit leverage mam podle toho i snizit SL? Napriklad leverage 1=SL 500$, ale napriklad leverage 5=SL 250$?
 21)Spojovani timeframu do sebe, vysvetleni?
 22)Jak casto pouzivate u obchodu carovy graf?
@@ -59,7 +59,29 @@ se nebude vyhlasovat dalsi fundament, to znamená že nějaký fundament má vy�
 53) Je lepsi pockat na jisty zacatek noveho impulsu za cenu horsi entry price, nez riskovat ze to muze byt pruraz+ jak poznat ze se muze jednat o pruraz?
 54) Je pravda ze kdyz je nejaky silny trend a narazi na mantinel, jednoduse ho prorazi, kdyz je ten trend dlouhodoby a silny?
 55) Co nastane tehdy kdyz pro obě měny je fundament bullish nebo bearsih? 
+56) Je pravda ze konsolidace je směsice uptrendu a downtrendu tudiz i kdyz je videt ze se na nejakych timeframes cena hýbe do boku, mohu ji tradit jako trendove obchodovani?
+57) Je pravda ze nejake S/R jsou mene silne tudiz je nemusime brat tolik v potaz ale muze na ne cena reagovat?
+58) Ucite se porad od nekoho, mate porad nejake mentory?
+59) Jaky je vas nazor na hedge fund/ chteli by jste ho v budoucnu mít?
+60) Musim mit vzdy tak velke R:R nesatci treba 1:1,3 nebo tak neco, protoze 1:2 a vice mi prijde hrozne moc
+61) Jak drzet trade co nejdele, vetsinou se snazim jit pro  nizsi R:R, ale pak zjistim ze jsem mohl mit napriklad 1:3 win
+62) Stackovani objednavek, kdyz stackujete, jakou davate LOT size?
+63) Funguje strategie i na nizsich timeframes, napriklad abych mel jeste presnejsi vstup?
+64) Jak spravne poznat odraz od mantinetlů z vyssich na nizscich timeframes?¨
+65) Jak poznat, jestli se jedna o pullback nebo o zacatek noveho trendu, tudiz musim tradit s trendem
+66) Maji vzdy mantinely z vyssich timeframes vyssi vahu, tudiz priceactions od nich nemusi respektovat mantinely na nizsich, naopak kdyz je mantinel z vyssiho, reakce na nizsim je hodne silna?
 
+67) Má cenu vubec kreslit mantinely na opravdu nizkych timeframes, vsiml jsem si ze to casto tvori falesnou predstavu o S/R a trendlines, z cehoz vyplivaji horsi rozhodnuti 
+a casto se mi stavalo ze jsem si myslel ze pullback nebo break trendu bude nastavat, ale nenastal.
+
+68) Pullback nemusi byt vzdy na strukturu, right?
+69) Jak moc velky pips rozdil to musi byt aby se to dalo povazovat za nove high nebo nove low?
+70) Kdyz dorazi pullback na mantinel, je lepsi cekat na test nebo odraz, aby jsme si byli jisti ze trend pokracuje?
+71) jak moc si protireci mantinely z vyssich a nizsich timeframes-priklad trendilne z vyssi, odraz na uptrend, trendline z nizsi,odraz na downtrend-je to tak ze vyssi ma
+prednost?
+72) Jak vim ze je jeste potreba jit na nizsi timeframe? je to kvuli nejasne strukture?
+73) Kdyz vyznacim S/R na carovem grafu, svickovy nemusim resit, protoze carovy je na tohle lepsi.
+74) Kdyz mam zobacky caroveho grafu drive v timeframu, plati to porad jako S/R?
 
 
 
